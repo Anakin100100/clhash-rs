@@ -1,5 +1,5 @@
 [package]
-name = "clhash-sys"
+name = "clhash_sys"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"

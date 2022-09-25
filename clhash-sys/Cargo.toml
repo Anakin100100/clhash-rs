@@ -1,0 +1,14 @@
+[package]
+name = "clhash-sys"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "This library exposes rust FFI for the clhash C library"
+homepage = "https://github.com/Anakin100100/clhash-rs"
+documentation = "https://github.com/Anakin100100/clhash-rs"
+repository = "https://github.com/Anakin100100/clhash-rs"
+readme = "README.md"
+
+[build-dependencies]
+cc = "1.0"
+bindgen = "0.60.1"

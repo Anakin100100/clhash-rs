@@ -12,9 +12,3 @@ readme = "README.md"
 [build-dependencies]
 cc = "1.0"
 bindgen = "0.60.1"
-
-[profile.release]
-strip = true
-lto = true
-codegen-units = 1
-panic = "abort"

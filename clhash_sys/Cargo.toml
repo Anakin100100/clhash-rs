@@ -1,6 +1,6 @@
 [package]
 name = "clhash_sys"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "Apache-2.0"
 description = "This library exposes rust FFI for the clhash C library"

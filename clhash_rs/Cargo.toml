@@ -10,4 +10,5 @@ repository = "https://github.com/Anakin100100/clhash-rs"
 readme = "README.md"
 
 [dependencies]
-clhash_sys = { path = "../clhash_sys" }
+clhash-sys = "0.1.0"
+rand = "0.8.5"
